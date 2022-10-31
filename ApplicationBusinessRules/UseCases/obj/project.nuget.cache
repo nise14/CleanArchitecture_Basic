@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qUYbDeBtIBaYlASsKcbtivwEEOX/dQWLH6VNpK80t4y/aDFpZ7TEFpY9fIDYBRWrHr54CP+zQ3vk3IKKCf1Hwg==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\CleanArchitecture\\ApplicationBusinessRules\\UseCases\\UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

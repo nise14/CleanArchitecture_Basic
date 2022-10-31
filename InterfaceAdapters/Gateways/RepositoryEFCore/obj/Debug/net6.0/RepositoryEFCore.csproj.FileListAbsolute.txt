@@ -1,0 +1,17 @@
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\bin\Debug\net6.0\RepositoryEFCore.deps.json
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\bin\Debug\net6.0\RepositoryEFCore.runtimeconfig.json
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\bin\Debug\net6.0\RepositoryEFCore.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\bin\Debug\net6.0\RepositoryEFCore.pdb
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\bin\Debug\net6.0\Entities.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\bin\Debug\net6.0\Entities.pdb
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\RepositoryEFCore.csproj.AssemblyReference.cache
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\RepositoryEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\RepositoryEFCore.AssemblyInfoInputs.cache
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\RepositoryEFCore.AssemblyInfo.cs
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\RepositoryEFCore.csproj.CoreCompileInputs.cache
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\RepositoryEFCore.csproj.CopyComplete
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\RepositoryEFCore.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\refint\RepositoryEFCore.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\RepositoryEFCore.pdb
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\RepositoryEFCore.genruntimeconfig.cache
+C:\Repository\CleanArchitecture\InterfaceAdapters\Gateways\RepositoryEFCore\obj\Debug\net6.0\ref\RepositoryEFCore.dll

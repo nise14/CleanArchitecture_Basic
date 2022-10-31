@@ -1,0 +1,17 @@
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\bin\Debug\net6.0\Presenters.deps.json
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\bin\Debug\net6.0\Presenters.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\bin\Debug\net6.0\Presenters.pdb
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\Presenters.csproj.AssemblyReference.cache
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\Presenters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\Presenters.AssemblyInfoInputs.cache
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\Presenters.AssemblyInfo.cs
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\Presenters.csproj.CoreCompileInputs.cache
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\Presenters.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\refint\Presenters.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\Presenters.pdb
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\ref\Presenters.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\bin\Debug\net6.0\DTOs.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\bin\Debug\net6.0\UseCasesPorts.dll
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\bin\Debug\net6.0\UseCasesPorts.pdb
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\bin\Debug\net6.0\DTOs.pdb
+C:\Repository\CleanArchitecture\InterfaceAdapters\Presenters\Presenters\obj\Debug\net6.0\Presenters.csproj.CopyComplete

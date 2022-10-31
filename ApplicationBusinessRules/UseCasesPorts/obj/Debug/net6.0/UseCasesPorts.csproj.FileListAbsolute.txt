@@ -1,0 +1,15 @@
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\bin\Debug\net6.0\UseCasesPorts.deps.json
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\bin\Debug\net6.0\UseCasesPorts.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\bin\Debug\net6.0\UseCasesPorts.pdb
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\bin\Debug\net6.0\DTOs.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\bin\Debug\net6.0\DTOs.pdb
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\UseCasesPorts.csproj.AssemblyReference.cache
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\UseCasesPorts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\UseCasesPorts.AssemblyInfoInputs.cache
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\UseCasesPorts.AssemblyInfo.cs
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\UseCasesPorts.csproj.CoreCompileInputs.cache
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\UseCasesPorts.csproj.CopyComplete
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\UseCasesPorts.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\refint\UseCasesPorts.dll
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\UseCasesPorts.pdb
+C:\Repository\CleanArchitecture\ApplicationBusinessRules\UseCasesPorts\obj\Debug\net6.0\ref\UseCasesPorts.dll
